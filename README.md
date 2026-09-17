@@ -57,3 +57,9 @@ not real business results. No client, no testimonials, nothing invented.
 
 It differs from my `excel-report-automation` sample on purpose: that one
 **cleans** messy exports; this one **builds** a dashboard from clean data.
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
